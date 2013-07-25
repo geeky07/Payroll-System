@@ -1,0 +1,20 @@
+C:\Users\Keerath\AppData\Local\Temporary Projects\Payroll Management System\bin\Debug\Payroll Management System.exe
+C:\Users\Keerath\AppData\Local\Temporary Projects\Payroll Management System\bin\Debug\Payroll Management System.pdb
+C:\Users\Keerath\AppData\Local\Temporary Projects\Payroll Management System\bin\Debug\Payroll Management System.xml
+C:\Users\Keerath\AppData\Local\Temporary Projects\Payroll Management System\obj\x86\Debug\Payroll_Management_System.Form1.resources
+C:\Users\Keerath\AppData\Local\Temporary Projects\Payroll Management System\obj\x86\Debug\Payroll_Management_System.Resources.resources
+C:\Users\Keerath\AppData\Local\Temporary Projects\Payroll Management System\obj\x86\Debug\Payroll Management System.vbproj.GenerateResource.Cache
+C:\Users\Keerath\AppData\Local\Temporary Projects\Payroll Management System\obj\x86\Debug\Payroll Management System.exe
+C:\Users\Keerath\AppData\Local\Temporary Projects\Payroll Management System\obj\x86\Debug\Payroll Management System.xml
+C:\Users\Keerath\AppData\Local\Temporary Projects\Payroll Management System\obj\x86\Debug\Payroll Management System.pdb
+C:\Users\Keerath\AppData\Local\Temporary Projects\Payroll Management System\obj\x86\Debug\Payroll_Management_System.LoginForm1.resources
+C:\Users\Keerath\documents\visual studio 2010\Projects\Payroll Management System\Payroll Management System\obj\x86\Debug\Payroll Management System.exe
+C:\Users\Keerath\documents\visual studio 2010\Projects\Payroll Management System\Payroll Management System\obj\x86\Debug\Payroll Management System.xml
+C:\Users\Keerath\documents\visual studio 2010\Projects\Payroll Management System\Payroll Management System\obj\x86\Debug\Payroll Management System.pdb
+C:\Users\Keerath\documents\visual studio 2010\Projects\Payroll Management System\Payroll Management System\obj\x86\Debug\Payroll_Management_System.Form1.resources
+C:\Users\Keerath\documents\visual studio 2010\Projects\Payroll Management System\Payroll Management System\obj\x86\Debug\Payroll_Management_System.LoginForm1.resources
+C:\Users\Keerath\documents\visual studio 2010\Projects\Payroll Management System\Payroll Management System\obj\x86\Debug\Payroll_Management_System.Resources.resources
+C:\Users\Keerath\documents\visual studio 2010\Projects\Payroll Management System\Payroll Management System\obj\x86\Debug\Payroll Management System.vbproj.GenerateResource.Cache
+C:\Users\Keerath\documents\visual studio 2010\Projects\Payroll Management System\Payroll Management System\bin\Debug\Payroll Management System.exe
+C:\Users\Keerath\documents\visual studio 2010\Projects\Payroll Management System\Payroll Management System\bin\Debug\Payroll Management System.pdb
+C:\Users\Keerath\documents\visual studio 2010\Projects\Payroll Management System\Payroll Management System\bin\Debug\Payroll Management System.xml

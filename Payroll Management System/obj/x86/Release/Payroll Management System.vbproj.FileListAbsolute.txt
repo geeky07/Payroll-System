@@ -1,0 +1,4 @@
+C:\Users\Keerath\documents\visual studio 2010\Projects\Payroll Management System\Payroll Management System\obj\x86\Release\Payroll_Management_System.Form1.resources
+C:\Users\Keerath\documents\visual studio 2010\Projects\Payroll Management System\Payroll Management System\obj\x86\Release\Payroll_Management_System.LoginForm1.resources
+C:\Users\Keerath\documents\visual studio 2010\Projects\Payroll Management System\Payroll Management System\obj\x86\Release\Payroll_Management_System.Resources.resources
+C:\Users\Keerath\documents\visual studio 2010\Projects\Payroll Management System\Payroll Management System\obj\x86\Release\Payroll Management System.vbproj.GenerateResource.Cache

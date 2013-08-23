@@ -18,3 +18,15 @@ C:\Users\Keerath\documents\visual studio 2010\Projects\Payroll Management System
 C:\Users\Keerath\documents\visual studio 2010\Projects\Payroll Management System\Payroll Management System\bin\Debug\Payroll Management System.exe
 C:\Users\Keerath\documents\visual studio 2010\Projects\Payroll Management System\Payroll Management System\bin\Debug\Payroll Management System.pdb
 C:\Users\Keerath\documents\visual studio 2010\Projects\Payroll Management System\Payroll Management System\bin\Debug\Payroll Management System.xml
+C:\Users\Keerath\Documents\Visual Studio 2010\Projects\Payroll-System\Payroll Management System\obj\x86\Debug\Payroll Management System.exe
+C:\Users\Keerath\Documents\Visual Studio 2010\Projects\Payroll-System\Payroll Management System\obj\x86\Debug\Payroll Management System.xml
+C:\Users\Keerath\Documents\Visual Studio 2010\Projects\Payroll-System\Payroll Management System\obj\x86\Debug\Payroll Management System.pdb
+C:\Users\Keerath\Documents\Visual Studio 2010\Projects\Payroll-System\Payroll Management System\bin\Debug\Payroll Management System.exe
+C:\Users\Keerath\Documents\Visual Studio 2010\Projects\Payroll-System\Payroll Management System\bin\Debug\Payroll Management System.pdb
+C:\Users\Keerath\Documents\Visual Studio 2010\Projects\Payroll-System\Payroll Management System\bin\Debug\Payroll Management System.xml
+C:\Users\Keerath\Documents\Visual Studio 2010\Projects\Payroll-System\Payroll Management System\obj\x86\Debug\Payroll_Management_System.Form1.resources
+C:\Users\Keerath\Documents\Visual Studio 2010\Projects\Payroll-System\Payroll Management System\obj\x86\Debug\Payroll_Management_System.Form2.resources
+C:\Users\Keerath\Documents\Visual Studio 2010\Projects\Payroll-System\Payroll Management System\obj\x86\Debug\Payroll_Management_System.LoginForm1.resources
+C:\Users\Keerath\Documents\Visual Studio 2010\Projects\Payroll-System\Payroll Management System\obj\x86\Debug\Payroll_Management_System.Resources.resources
+C:\Users\Keerath\Documents\Visual Studio 2010\Projects\Payroll-System\Payroll Management System\obj\x86\Debug\Payroll Management System.vbproj.GenerateResource.Cache
+C:\Users\Keerath\Documents\Visual Studio 2010\Projects\Payroll-System\Payroll Management System\obj\x86\Debug\Payroll_Management_System.Form3.resources

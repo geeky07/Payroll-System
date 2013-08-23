@@ -64,6 +64,27 @@ Namespace My
                 Return CType(Me("Employee_detailsConnectionString"),String)
             End Get
         End Property
+        
+        <Global.System.Configuration.ApplicationScopedSettingAttribute(),  _
+         Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
+         Global.System.Configuration.SpecialSettingAttribute(Global.System.Configuration.SpecialSetting.ConnectionString),  _
+         Global.System.Configuration.DefaultSettingValueAttribute("Data Source=(localdb)\Keerath;Initial Catalog=""Employee Details"";Integrated Secur"& _ 
+            "ity=True")>  _
+        Public ReadOnly Property Employee_DetailsConnectionString1() As String
+            Get
+                Return CType(Me("Employee_DetailsConnectionString1"),String)
+            End Get
+        End Property
+        
+        <Global.System.Configuration.ApplicationScopedSettingAttribute(),  _
+         Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
+         Global.System.Configuration.SpecialSettingAttribute(Global.System.Configuration.SpecialSetting.ConnectionString),  _
+         Global.System.Configuration.DefaultSettingValueAttribute("Data Source=(localdb)\Keerath;Initial Catalog=Details;Integrated Security=True")>  _
+        Public ReadOnly Property DetailsConnectionString() As String
+            Get
+                Return CType(Me("DetailsConnectionString"),String)
+            End Get
+        End Property
     End Class
 End Namespace
 

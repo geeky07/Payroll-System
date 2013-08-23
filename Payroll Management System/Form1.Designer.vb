@@ -36,7 +36,7 @@ Partial Class Form1
         'ComboBox1
         '
         Me.ComboBox1.FormattingEnabled = True
-        Me.ComboBox1.Items.AddRange(New Object() {"Run Payroll", "Employee Details"})
+        Me.ComboBox1.Items.AddRange(New Object() {"Run Payroll", "Employee Details", "Database View", "Payslips"})
         Me.ComboBox1.Location = New System.Drawing.Point(167, 343)
         Me.ComboBox1.Margin = New System.Windows.Forms.Padding(3, 4, 3, 4)
         Me.ComboBox1.Name = "ComboBox1"
@@ -110,7 +110,7 @@ Partial Class Form1
         Me.Label4.Size = New System.Drawing.Size(297, 26)
         Me.Label4.TabIndex = 7
         Me.Label4.Text = "Developed by Chetan Anand, Devansh Jishtu, Keerath Jaggi," & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "Nitika Puri and Sakshi" & _
-            " Sethi" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10)
+    " Sethi" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10)
         '
         'Label5
         '
@@ -120,7 +120,7 @@ Partial Class Form1
         Me.Label5.Size = New System.Drawing.Size(212, 68)
         Me.Label5.TabIndex = 8
         Me.Label5.Text = "Department of Software Engineering" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "SRM University,Chennai" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "Copyright Sept 2013" & _
-            " . All Rights Reserved."
+    " . All Rights Reserved."
         '
         'Form1
         '
